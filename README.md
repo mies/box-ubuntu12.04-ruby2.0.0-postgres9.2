@@ -6,7 +6,7 @@ ubuntu12.04-ruby2.0.0-postgres9.2
 
 # Usage
 
-In your `werber.yml` file, specify this box name
+In your `wercker.yml` file, specify this box name
 
 ```yaml
 box: fliplingo/ubuntu12.04-ruby2.0.0-psql9.2
